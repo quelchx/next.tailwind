@@ -8,7 +8,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="flex flex-col items-center justify-center w-full flex-1 px-20 text-center">
+      <main className="flex font-ubuntu flex-col items-center justify-center w-full flex-1 px-20 text-center">
         <h1 className="text-6xl font-bold">
           Welcome to{' '}
           <a className="text-cyan-600" href="https://nextjs.org">
@@ -18,12 +18,12 @@ export default function Home() {
 
         <p className="mt-3 text-2xl">
           Get started by editing{' '}
-          <code className="p-3 font-mono text-lg text-cyan-700 bg-lime-100 rounded-md">
+          <code className="p-3 font-monaco text-lg text-cyan-700 bg-lime-100 rounded-md">
             pages/index.js
           </code>
         </p>
 
-        <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
+        <div className="flex flex-wrap font-poppin items-center justify-around max-w-4xl mt-6 sm:w-full">
           <a
             href="https://nextjs.org/docs"
             className="p-6 mt-6 text-left border w-96 rounded-xl link"
