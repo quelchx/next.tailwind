@@ -12,7 +12,7 @@ function Application({ Component, pageProps }) {
           rel="stylesheet"
         />
       </Head>
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
     </section>
   );
 }
