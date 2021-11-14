@@ -3,7 +3,7 @@
 This is a Next.js + Tailwind CSS Example setup with some small examples to get started. To duplicate this repository to use for your own project, run the following command inside your terminal:
 
 ```bash
-npx degit quelchx/nextwind my-project
+npx degit quelchx/next-tailwind my-project
 cd my-project && npm install
 ```
 
